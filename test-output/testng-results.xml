@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-12T10:36:57Z" name="Default suite" finished-at="2019-11-12T10:37:20Z" duration-ms="22522">
+    <groups>
+    </groups>
+    <test started-at="2019-11-12T10:36:57Z" name="Default test" finished-at="2019-11-12T10:37:20Z" duration-ms="22522">
+      <class name="org.openqaa.JunitFrame">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:36:57Z" name="launchBrowser" finished-at="2019-11-12T10:37:07Z" duration-ms="9445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="starttime()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:07Z" name="starttime" finished-at="2019-11-12T10:37:07Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starttime -->
+        <test-method signature="test1()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:07Z" name="test1" finished-at="2019-11-12T10:37:08Z" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="endtime()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:08Z" name="endtime" finished-at="2019-11-12T10:37:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtime -->
+        <test-method signature="test2()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:08Z" name="test2" finished-at="2019-11-12T10:37:20Z" duration-ms="12393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="starttime()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:08Z" name="starttime" finished-at="2019-11-12T10:37:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starttime -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:20Z" name="closeBrowser" finished-at="2019-11-12T10:37:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="endtime()[pri:0, instance:org.openqaa.JunitFrame@1d548a08]" started-at="2019-11-12T10:37:20Z" name="endtime" finished-at="2019-11-12T10:37:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtime -->
+      </class> <!-- org.openqaa.JunitFrame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
